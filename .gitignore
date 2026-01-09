@@ -5,3 +5,12 @@
 _pycache_/
 *.pyc
 *.pkl
+
+.env
+
+# Vector database (local state)
+vector_store/
+
+# OS junk
+.DS_Store
+Thumbs.db
